@@ -1,0 +1,5 @@
+#bin/bash/ -e
+git add shl1
+git commit -m 'shl1'
+git push origin master
+
